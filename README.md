@@ -1,7 +1,7 @@
 # 🧰 Maintenance Tool – SQL Server Management Utility
 
 <p align="center">
-  <img src="images/1.png" alt="Maintenance Tool Screenshot" width="600"/>
+  <img src="1.png" alt="Maintenance Tool Screenshot" width="600"/>
 </p>
 
 ## 🧩 Overview
